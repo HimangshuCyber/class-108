@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+body{
+    font-family: 'Poppins';
+    background-color: white;
+}
+h1{
+    color: blue;
+}
+h4{
+    color:rgb(150, 148, 148);
+}
+.foot_er{
+    position: fixed;
+    bottom:0;
+}
+.s{
+    background-color: transparent;
+    border: 2px solid blue;
+    height: 60px;
+    width: 200px;
+    font-size: 19px;
+    transition: 0.6s ease;
+}
+.s:hover{
+    background-color: blue;
+    color: white;
+}
